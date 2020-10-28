@@ -1,5 +1,4 @@
 {
-
 "matches":[
 {
   "unique_id": 123,
@@ -14,7 +13,6 @@
    "matchStarted":true
 
 },
-
 {
   "unique_id": 124,
    "date":"2020-08-21T00:00.000Z",
@@ -28,7 +26,5 @@
    "matchStarted":true
 
 }
-
-
 ]
 }
